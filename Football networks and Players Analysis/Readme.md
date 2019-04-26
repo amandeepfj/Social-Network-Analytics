@@ -1,0 +1,1 @@
+•	Soccer Club and Players network analysis and modeling – By examining the measure of centrality and conducting network analysis, this project identifies which connections with other players are the most important for a new player’s long-term success and which clubs are most likely to lead a player to the top clubs in the long run. R - iGraph, ERGM, and MySQL.
